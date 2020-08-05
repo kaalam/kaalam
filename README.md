@@ -1,4 +1,4 @@
-![kaalam](mangrove.png)
+![kaalam](https://raw.githubusercontent.com/kaalam/kaalam/master/mangrove.png)
 
 ## Hi there,
 
