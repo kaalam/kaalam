@@ -1,4 +1,4 @@
-![kaalam](./mangrove.png)
+![kaalam](mangrove.png)
 
 ## Hi there,
 
