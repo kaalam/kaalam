@@ -25,6 +25,12 @@ This is kaalam, the authors of the Jazz platform.
   * The whole PoC implementation in Python applied to the ARC challenge can be found in [JazzARC](https://github.com/kaalam/JazzARC)
 
 
+## The Tangle: A Connected Dataset of English Grammar and Curated Text
+
+  * The presentation [poster](https://raw.githubusercontent.com/kaalam/kaalam/master/the_tangle.pdf)
+  * Docker and Python packages [instructions](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html)
+
+
 ## Our recent deliveries are
 
   * Jazz 0.5.1 - The first complete Jazz platform with every Block type, Container, communication channel and server 100% complete.
