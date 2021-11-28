@@ -37,7 +37,7 @@ This is kaalam, the authors of the Jazz platform.
 
   * Jazz 0.5.2 - Some API enhancements to simplify usage.
 
-  * The Tangle 0.5.2 The first version of "The Tangle: A Connected Dataset of English Grammar and Curated Text" on Jazz 0.5.2
+  * The Tangle 0.5.3 The first version of "The Tangle: A Connected Dataset of English Grammar and Curated Text" on [Jazz TNG 0.5.3](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html)
 
 
 ## Our current challenges are
