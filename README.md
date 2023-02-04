@@ -33,11 +33,13 @@ This is kaalam, the authors of the Jazz platform.
 
 ## Our recent deliveries are
 
-  * Jazz 0.5.1 - The first complete Jazz platform with every Block type, Container, communication channel and server 100% complete.
+  * The Tangle 0.6.1 **Big update** including **Wikipedia update to 2022/12/31** Same usage procedure [Jazz TNG 0.5.3](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html)
+
+  * The Tangle 0.5.3 The first version of "The Tangle: A Connected Dataset of English Grammar and Curated Text" on [Jazz TNG 0.5.3](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html)
 
   * Jazz 0.5.2 - Some API enhancements to simplify usage.
 
-  * The Tangle 0.5.3 The first version of "The Tangle: A Connected Dataset of English Grammar and Curated Text" on [Jazz TNG 0.5.3](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html)
+  * Jazz 0.5.1 - The first complete Jazz platform with every Block type, Container, communication channel and server 100% complete.
 
 
 ## Our current challenges are
