@@ -9,6 +9,10 @@ This is kaalam, the authors of the Jazz platform.
   * Our website is [kaalam.ai](http://kaalam.ai/)
 
 
+## Coming soon!
+
+  * (Feb 23) A new paper summarizing the whole vision.
+
 
 ## What is jazz
 
