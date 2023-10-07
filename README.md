@@ -9,9 +9,13 @@ This is kaalam, the authors of the Jazz platform.
   * Our website is [kaalam.ai](http://kaalam.ai/)
 
 
-## Coming soon!
+## Some links from 2023 on recent research
 
-  * (Feb 23) A new paper summarizing the whole vision.
+A new paper summarizing the whole vision was presented in AAAI Spring Symposium EDGeS 2023 in April 23.
+
+  * This is the [paper](https://openreview.net/forum?id=1FE3reKlJN).
+
+  * Here are the [slides](https://www.slideshare.net/kaalamai/lifelong-formal-modeling-agents-at-aaaiedges-2023pdf).
 
 
 ## What is jazz
