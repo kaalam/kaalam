@@ -9,6 +9,17 @@ This is kaalam, the authors of the Jazz platform.
   * Our website is [kaalam.ai](http://kaalam.ai/)
 
 
+## Good news for 2025!
+
+Our soon to be released Jazz 1.25 released the first stable version of Bebop that generates and runs onnx code.
+
+## Some links from 2024 on recent research
+
+A new paper on from the team was presented a [ICAIF](https://ai-finance.org/), Brooklyn, New York, November 2024.
+
+  * This is the [paper](https://openreview.net/pdf?id=NBeBMJIWFY).
+
+
 ## Some links from 2023 on recent research
 
 A new paper summarizing the whole vision was presented in AAAI Spring Symposium EDGeS 2023 in April 23.
