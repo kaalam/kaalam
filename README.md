@@ -4,9 +4,13 @@
 
 This is kaalam, the authors of the Jazz platform.
 
-  * Our Twitter account is [@kaalam_ai](https://twitter.com/kaalam_ai)
-
   * Our website is [kaalam.ai](http://kaalam.ai/)
+
+## Happy 2026!
+
+Bop-25 is now a reality!
+
+The next version of Jazz, Jazz 1.26, will include Bop-25 with anything up to the namespace `jazz_bebop` complete, to start building models.
 
 
 ## Good news for 2025!
